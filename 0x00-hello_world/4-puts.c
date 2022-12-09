@@ -1,6 +1,6 @@
-#include <stdio.h>
+#include <stdio>
 /**
- * main - print a line of code using put
+ * main - print a line of code using puit
  * Return: Always 0 (success)
  */
 int main(void)
